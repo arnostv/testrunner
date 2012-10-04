@@ -1,0 +1,7 @@
+.DS_Store
+imaginary-methods-runner/.gradle/
+imaginary-methods-runner/target/
+imaginary-methods-runner/imaginary-methods-runner.iml
+imaginary-methods-runner/imaginary-methods-runner.ipr
+imaginary-methods-runner/imaginary-methods-runner.iws
+imaginary-methods-runner/target/
